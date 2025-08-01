@@ -1,0 +1,41 @@
+
+> basketball-dreams-taiwan@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.4.5 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.11.73:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.4s
+ ○ Compiling / ...
+ ✓ Compiled / in 8.9s
+ GET / 200 in 9638ms
+ GET / 200 in 161ms
+ ✓ Compiled in 143ms
+ ○ Compiling /_not-found/page ...
+ ✓ Compiled /_not-found/page in 815ms
+ GET / 404 in 3212ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 957ms
+ GET /favicon.ico?favicon.45db1c09.ico 200 in 1421ms
+ ✓ Compiled / in 177ms
+ ⨯ [Error: The default export is not a React Component in "/page"]
+ ⨯ [Error: The default export is not a React Component in "/page"] {
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.7s
+ GET / 500 in 5846ms
+ ⨯ [Error: The default export is not a React Component in "/page"]
+ ⨯ [Error: The default export is not a React Component in "/page"] {
+  page: '/'
+}
+ GET / 500 in 1095ms
+ ⨯ [Error: The default export is not a React Component in "/page"]
+ ⨯ [Error: The default export is not a React Component in "/page"] {
+  page: '/'
+}
+ GET / 500 in 1565ms
+[?25h
